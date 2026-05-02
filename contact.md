@@ -3,7 +3,7 @@ title: Contact
 ---
 
 - GitHub: [https://github.com/eucleast]
-- LinkedIn: [https://www.linkedin.com/in/yazid-mustoffa]
+- LinkedIn: [(add)](https://www.linkedin.com/in/yazid-mustoffa)
 - Email: -
 
 ---
