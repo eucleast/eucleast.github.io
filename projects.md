@@ -1,16 +1,32 @@
 ---
+layout: default
 title: Projects
+permalink: /projects/
 ---
-
-## 🔍 Fiber Fault Investigation Case Study
-- Investigated high span loss on international fiber link
-- Used OTDR trace analysis to locate degradation point
-- Coordinated field repair with vendors
-- Restored service within SLA window
 
 ---
 
-## 📡 DWDM Performance Analysis
-- Monitored optical signal degradation trends
-- Analyzed OSNR variation across network nodes
-- Identified correlation between load and latency spikes
+## Fiber Cut Analysis Dashboard
+Automated reporting system for downtime tracking and span loss analysis in fiber network operations.
+
+- Tracks fiber cut incidents
+- Calculates downtime automatically
+- Improves reporting accuracy
+
+---
+
+## Network Monitoring Optimization
+Improved DWDM monitoring system efficiency by reducing false alarms.
+
+- Alarm filtering tuning
+- Better event correlation
+- Reduced NOC noise
+
+---
+
+## DWDM Performance Monitoring
+Designed monitoring approach for DWDM layer performance analysis.
+
+- Optical power tracking
+- Span loss analysis
+- Latency observation support
