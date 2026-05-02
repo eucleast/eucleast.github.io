@@ -6,7 +6,7 @@ layout: default
 <img src="/assets/profile.jpg" style="width:120px;height:120px;border-radius:50%;object-fit:cover;margin-top:10px;">
 </div>
 
-# Yazid Mustoffa  
+# Yazid Bustamin Mustoffa  
 ### Network Engineer | Fiber | DWDM | OTN  
 
 ---
