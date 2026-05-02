@@ -1,34 +1,15 @@
----
-layout: default
-title: Home
----
+# Yazid Mustoffa
 
-## 👨‍💻 Yazid Mustoffa
 Network Engineer | Fiber | DWDM | OTN
 
----
+## About
+Experienced network engineer in fiber and transmission systems.
 
-## 💼 Experience
+## Experience
+- SEAX Network Engineer (2024–Present)
+- Assistant Technician (2021–2024)
 
-### SEAX (2024 – Present)
+## Skills
 - Fiber troubleshooting
-- DWDM / OTN monitoring
-- Network incident handling
-
-### Assistant Technician (2021 – 2024)
-- Fiber maintenance support
-- Fault isolation
-- Basic transmission testing
-
----
-
-## 🛠 Skills
-- Fiber optics (OTDR, power meter)
-- DWDM / OTN systems
+- DWDM / OTN
 - Network monitoring
-- RCA / troubleshooting
-
----
-
-## 🎓 Education
-Diploma in Computer Science
