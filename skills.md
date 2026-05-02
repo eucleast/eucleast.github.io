@@ -1,4 +1,6 @@
-# Technical Skills
+---
+title: Technical Skills
+---
 
 ## Optical Transport
 - Fiber optics troubleshooting
