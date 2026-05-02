@@ -1,6 +1,5 @@
 # About
 
-
 I am a Network Engineer working in international backbone and fiber infrastructure environments.
 
 I enjoy solving complex transmission issues and identifying root causes in optical networks.
