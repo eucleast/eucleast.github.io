@@ -52,5 +52,5 @@ Improved alarm filtering and reduced false positives in DWDM layer.
 
 ## 📞 Contact
 - Email: - 
-- LinkedIn: https://www.linkedin.com/in/yazid-mustoffa
-- GitHub: https://github.com/eucleast  
+- [LinkedIn](https://www.linkedin.com/in/yazid-mustoffa)
+- [GitHub](https://github.com/eucleast)
