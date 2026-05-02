@@ -1,4 +1,8 @@
-# About
+
+---
+layout: about
+title: About
+---
 
 I am a Network Engineer working in international backbone and fiber infrastructure environments.
 
