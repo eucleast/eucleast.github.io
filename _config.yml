@@ -1,7 +1,3 @@
 title: Yazid Mustoffa
-tagline: Network Engineer | Fiber | DWDM | OTN
-
-remote_theme: poole/hyde
-
-plugins:
-  - jekyll-remote-theme
+description: Network Engineer | Fiber | DWDM | OTN
+theme: minima
