@@ -3,18 +3,15 @@
 
 ---
 
-## 👋 About Me
-Network Engineer specializing in fiber optics, DWDM systems, and international network operations.
+## 👋 Professional Summary
+Network Engineer with hands-on experience in international network operations, specializing in fiber optics, DWDM systems, and service assurance.
+
+Focused on fault isolation, performance optimization, and maintaining high network availability in carrier-grade environments.
 
 ---
 
-## 💼 Experience
-- SEAX Network Engineer (2024–Present)
-- Assistant Technician (2021–2024)
-
----
-
-## 🛠 Skills
-- Fiber troubleshooting (OTDR, power loss)
-- DWDM / OTN monitoring
-- Network incident handling
+## 🚀 Core Expertise
+- Fiber optic troubleshooting (OTDR, power loss, span analysis)
+- DWDM / OTN monitoring and performance analysis
+- Network incident management and escalation
+- SLA assurance for international circuits
