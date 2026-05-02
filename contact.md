@@ -1,4 +1,6 @@
-# Contact
+---
+title: Contact
+---
 
 - GitHub: https://github.com/eucleast
 - LinkedIn: [(add your link)](https://www.linkedin.com/in/yazid-mustoffa)
