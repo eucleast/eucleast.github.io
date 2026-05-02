@@ -1,8 +1,8 @@
 # Contact
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: (add your link)
-- Email: (optional)
+- GitHub: https://github.com/eucleast
+- LinkedIn: [(add your link)](https://www.linkedin.com/in/yazid-mustoffa)
+- Email: -
 
 ---
 
