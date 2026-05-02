@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Yazid Mustoffa  
+<img src="/assets/profile.jpg" style="width:120px;border-radius:50%;">
 ### Network Engineer | Fiber | DWDM | OTN  
 
 ---
