@@ -2,12 +2,11 @@
 layout: default
 ---
 
-# Yazid Mustoffa  
-
 <div style="text-align:center; padding:40px 0;">
 <img src="/assets/profile.jpg" style="width:120px;height:120px;border-radius:50%;object-fit:cover;margin-top:10px;">
 </div>
 
+# Yazid Mustoffa  
 ### Network Engineer | Fiber | DWDM | OTN  
 
 ---
