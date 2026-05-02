@@ -1,5 +1,5 @@
 ---
-title: Projects & Case Study
+title: Projects
 ---
 
 ## 🔍 Fiber Fault Investigation Case Study
