@@ -1,3 +1,7 @@
 title: Yazid Mustoffa
-description: Network Engineer Portfolio
-theme: minima
+tagline: Network Engineer | Fiber | DWDM | OTN
+
+remote_theme: poole/hyde
+
+plugins:
+  - jekyll-remote-theme
