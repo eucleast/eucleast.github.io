@@ -12,7 +12,7 @@ layout: default
 ---
 
 ## 👋 About Me
-Network operations engineer with ~3 years experience in fiber troubleshooting, DWDM/OTN systems, and ISP network operations. Currently working with SEAX (2024–present), focusing on high availability network performance and fault resolution.
+Network operations engineer with ~5 years experience in fiber troubleshooting, DWDM/OTN systems, and ISP network operations. Currently working with SEAX (2024–present), focusing on high availability network performance and fault resolution.
 
 ---
 
