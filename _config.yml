@@ -1,7 +1,0 @@
-title: Yazid Mustoffa
-tagline: Network Engineer
-
-remote_theme: poole/hyde
-
-plugins:
-  - jekyll-remote-theme
