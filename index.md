@@ -1,24 +1,23 @@
 ---
-layout: page
+layout: default
 title: Home
 ---
 
-## 👨‍💻 About Me
-Network Engineer with experience in fiber optics, DWDM systems, and international network operations.
+## 👨‍💻 Yazid Mustoffa
+Network Engineer | Fiber | DWDM | OTN
 
 ---
 
 ## 💼 Experience
 
-### Network Engineer – SEAX (2024 – Present)
-- Fiber troubleshooting and restoration
-- DWDM / OTN performance monitoring
-- Handling network incidents and escalations
-- SLA assurance for international circuits
+### SEAX (2024 – Present)
+- Fiber troubleshooting
+- DWDM / OTN monitoring
+- Network incident handling
 
 ### Assistant Technician (2021 – 2024)
-- Network fault isolation
 - Fiber maintenance support
+- Fault isolation
 - Basic transmission testing
 
 ---
@@ -27,7 +26,7 @@ Network Engineer with experience in fiber optics, DWDM systems, and internationa
 - Fiber optics (OTDR, power meter)
 - DWDM / OTN systems
 - Network monitoring
-- Troubleshooting & RCA
+- RCA / troubleshooting
 
 ---
 
