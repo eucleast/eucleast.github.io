@@ -1,5 +1,6 @@
-
-# Projects
+---
+title: Projects & Case Study
+---
 
 ## 🔍 Fiber Fault Investigation Case Study
 - Investigated high span loss on international fiber link
