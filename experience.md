@@ -1,5 +1,6 @@
-
-# Experience
+---
+title: Experience
+---
 
 ## SEAX — Network Engineer (2024 – Present)
 
