@@ -1,17 +1,23 @@
-# Yazid Mustoffa
-### Network Engineer | Fiber | DWDM | OTN
+---
+layout: home
+title: Home
+---
+
+# 👋 Hi, I'm Yazid Mustoffa
+
+Network Engineer | Fiber | DWDM | OTN
 
 ---
 
-## 👋 Professional Summary
-Network Engineer with hands-on experience in international network operations, specializing in fiber optics, DWDM systems, and service assurance.
+## Professional Summary
+Network Engineer with hands-on experience in international fiber and transmission networks.
 
-Focused on fault isolation, performance optimization, and maintaining high network availability in carrier-grade environments.
+Focused on troubleshooting, DWDM performance, and service reliability in carrier environments.
 
 ---
 
-## 🚀 Core Expertise
-- Fiber optic troubleshooting (OTDR, power loss, span analysis)
-- DWDM / OTN monitoring and performance analysis
-- Network incident management and escalation
-- SLA assurance for international circuits
+## Core Expertise
+- Fiber optic troubleshooting (OTDR, span loss)
+- DWDM / OTN monitoring
+- Network incident handling
+- SLA assurance
