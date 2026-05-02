@@ -3,9 +3,4 @@ description: Network Engineer | Fiber | DWDM | OTN
 
 theme: minima
 
-header_pages:
-  - about.md
-  - experience.md
-  - projects.md
-  - skills.md
-  - contact.md
+
